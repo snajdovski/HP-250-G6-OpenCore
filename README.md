@@ -40,5 +40,6 @@ lots more
 *OpenCore devs and OpenCore Guides
 *itlwm for the Wifi Intel driver port from Linux
 *me Stefan
+*@aidasaidas75 for fixing some issues
 *others too :P
 ```
