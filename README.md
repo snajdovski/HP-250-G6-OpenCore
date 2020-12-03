@@ -8,20 +8,21 @@
 
 ## What Works:
 ```
+Proper SMBIOS
 Audio
 Touchpad/Keyboard
 Brightness
 Battery Indicator
-USB ports
+USB ports including the SD Card Reader
 Video Accelariton (1536 Mb Vram)
-VGA Out
-HDMI (Sound broken)
+VGA Output Port (TESTED)
+HDMI (Sound broken) (TESTED)
 
 ```
 ## What doesn't work:
 ```
 Ethernet
-Sleep
+Sleep (Machine goes to sleep but when woken up it has just backlit on no output or input)
 Intel Wifi (Search on github for a alt kext for intel wifi cards https://github.com/OpenIntelWireless/itlwm/releases)
 
 ```
