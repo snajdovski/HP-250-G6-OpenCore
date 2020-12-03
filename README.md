@@ -13,6 +13,8 @@ Battery Indicator
 USB ports
 Video Accelariton (1536 Mb Vram)
 Wifi  (Swapped the original with macOS compatable DW1820(BCM4350) 802.11ac Wireless , if you have intel read What doesnt work! )
+VGA Out
+HDMI (Sound broken)
 
 ```
 ## What doesn't work:
