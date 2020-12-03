@@ -9,28 +9,25 @@
 ## What Works:
 ```
 Audio
+Touchpad/Keyboard
+Brightness
 Battery Indicator
 USB ports
 Video Accelariton (1536 Mb Vram)
-Wifi  (Swapped the original with macOS compatable DW1820(BCM4350) 802.11ac Wireless , if you have intel read What doesnt work! )
 VGA Out
 HDMI (Sound broken)
 
 ```
 ## What doesn't work:
 ```
-Touchpad/Keyboard
 Ethernet
 Sleep
 Intel Wifi (Search on github for a alt kext for intel wifi cards https://github.com/OpenIntelWireless/itlwm/releases)
-Brightness
+
 ```
 
 ## TO DO:
 ```
-*fix SMBIOS
-*REMOVE SMC Light Sensor
-*Remove other Kexts for touchpad/keyboard
 *fix Sleep
 *Remove DSDT.aml
 lots more 
