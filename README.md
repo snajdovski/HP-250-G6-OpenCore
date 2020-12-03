@@ -10,7 +10,7 @@
 ```
 Proper SMBIOS
 Audio
-Touchpad/Keyboard
+Touchpad(Scrolling and Swiping max 2 fingers due to hardware limitation)/Keyboard
 Brightness
 Battery Indicator
 USB ports including the SD Card Reader
