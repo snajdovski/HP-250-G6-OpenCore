@@ -8,29 +8,20 @@
 
 ## What Works:
 ```
-Proper SMBIOS
 Audio
-Touchpad(Scrolling and Swiping max 2 fingers due to hardware limitation)/Keyboard
-Brightness
 Battery Indicator
-USB ports including the SD Card Reader
+USB ports
 Video Accelariton (1536 Mb Vram)
-VGA Output Port (TESTED)
-HDMI (Sound broken) (TESTED)
-
+Intel Wifi
+Everything else?
 ```
 ## What doesn't work:
 ```
-Ethernet
-Sleep (Machine goes to sleep but when woken up it has just backlit on no output or input)
-Intel Wifi (Search on github for a alt kext for intel wifi cards https://github.com/OpenIntelWireless/itlwm/releases)
-
+HDMI Audio 
 ```
 
 ## TO DO:
 ```
-*fix Sleep
-*Remove DSDT.aml
 lots more 
 ```
 
@@ -40,6 +31,5 @@ lots more
 *OpenCore devs and OpenCore Guides
 *itlwm for the Wifi Intel driver port from Linux
 *me Stefan
-*@aidasaidas75 for fixing some issues
 *others too :P
 ```
