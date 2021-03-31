@@ -12422,6 +12422,33 @@
 					<key>WakeVerbReinit</key>
 					<true/>
 				</dict>
+				<dict>
+					<key>AFGLowPowerState</key>
+					<data>
+					AwAAAA==
+					</data>
+					<key>Codec</key>
+					<string>Realtek ALC3227 by snajdovski</string>
+					<key>CodecID</key>
+					<integer>283902594</integer>
+					<key>ConfigData</key>
+					<data>
+					AXccAAF3HQABdx4QAXcfQAHXHAEB1x0AAdce
+					8AHXH0ABRxwQAUcdAQFHHhcBRx+QAUcMAgIX
+					HCACFx0QAhceIQIXHwMBlxwwAZcdEAGXHqAB
+					lx+T
+					</data>
+					<key>FuncGroup</key>
+					<integer>1</integer>
+					<key>LayoutID</key>
+					<integer>0</integer>
+					<key>WakeConfigData</key>
+					<data>
+					AXcMAAHXDAABRwwCAhcMAAGXDAA=
+					</data>
+					<key>WakeVerbReinit</key>
+					<true/>
+				</dict>
 			</array>
 			<key>IOClass</key>
 			<string>AppleHDAHardwareConfigDriver</string>
