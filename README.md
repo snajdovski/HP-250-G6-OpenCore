@@ -1,4 +1,4 @@
-# HP-250-G6-BigSur-OpenCore-EFI
+# HP-250-G6-BigSur-OpenCore-EFI (NEEDS MORE ACPI PATCHING)
 
 
 <p align="center">
