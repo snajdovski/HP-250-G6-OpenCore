@@ -8,13 +8,12 @@
 
 ## What Works:
 ```
-Audio
 Battery Indicator
 USB ports
 Video Accelariton (1536 Mb Vram)
 Intel Wifi (not up to date)
 Sleep
-Audio (Apple ALC 13)
+Audio (Apple ALC 13), Headphones, USB keybard
 VGA
 Brighness Keys
 Volume Keys
