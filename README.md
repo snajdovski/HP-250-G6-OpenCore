@@ -1,4 +1,4 @@
-# HP-250-G6-BigSur-OpenCore-EFI (NEEDS MORE ACPI PATCHING)
+# HP-250-G6-BigSur-OpenCore-EFI
 
 
 <p align="center">
@@ -12,12 +12,18 @@ Audio
 Battery Indicator
 USB ports
 Video Accelariton (1536 Mb Vram)
-Intel Wifi
-Everything else?
+Intel Wifi (not up to date)
+Sleep
+Audio (Apple ALC 13)
+VGA
+Brighness Keys
+Volume Keys
+EGPU disabled
 ```
 ## What doesn't work:
 ```
 HDMI Audio 
+You tell me
 ```
 
 ## TO DO:
