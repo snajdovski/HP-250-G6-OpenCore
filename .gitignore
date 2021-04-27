@@ -9,3 +9,8 @@ EFI/OC/.DS_Store
 EFI/OC/.DS_Store
 .DS_Store
 EFI/OC/.DS_Store
+EFI/ubuntu/BOOTX64.CSV
+EFI/ubuntu/grub.cfg
+EFI/ubuntu/grubx64.efi
+EFI/ubuntu/mmx64.efi
+EFI/ubuntu/shimx64.efi
