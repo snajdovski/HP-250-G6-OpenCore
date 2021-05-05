@@ -14,3 +14,5 @@ EFI/ubuntu/grub.cfg
 EFI/ubuntu/grubx64.efi
 EFI/ubuntu/mmx64.efi
 EFI/ubuntu/shimx64.efi
+.DS_Store
+EFI/OC/.DS_Store
