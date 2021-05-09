@@ -13,7 +13,7 @@ Its stable on my laptop but that doesnt mean its stable on the same model even i
 ## What Works:
 ```
 Battery Indicator
-USB ports
+USB ports (mapped out but I still inject 3 kexts UsbMap,UsbInjectAll,Usb , needs to be refactored)
 Video Accelariton (1536 Mb Vram)
 Intel Wifi (not up to date)
 Sleep
