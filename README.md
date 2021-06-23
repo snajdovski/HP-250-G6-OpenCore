@@ -4,9 +4,9 @@
 <p align="center">
  OpenCore 0.6.9 EFI folder for macOS BigSur Hackintosh (i3 6006u variant) 250 G6 HP Laptop
 <img src="https://i.imgur.com/C5WJG3W.png" alt="look">
- 
-<img src="hhttps://raw.githubusercontent.com/snajdovski/HP-250-G6-OpenCore/71d79d0458238543caae6bf4cd674af452af5f1a/ss.png" alt="screenshot">
 </p>
+
+<img src="https://raw.githubusercontent.com/snajdovski/HP-250-G6-OpenCore/71d79d0458238543caae6bf4cd674af452af5f1a/ss.png" alt="screenshot">
 
 ## Warning 
 This EFI is not the most perfect one, so dont blame me if something doesn't work, opencore community hates sharing EFI folders but I did it because I know how hard can it be to start hackintoshing, so keep in mind this is not a perfect EFI and I have probably tons of mistakes into my config. 
