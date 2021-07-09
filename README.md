@@ -36,7 +36,6 @@ EGPU disabled (AMD mobile not supported)
 ## What doesn't work:
 ```
 HDMI Audio 
-Sometimes Caddy HDD doesn't load after reboot.
 You tell me
 ```
 
