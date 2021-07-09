@@ -12,6 +12,13 @@
 This EFI is not the most perfect one, so dont blame me if something doesn't work, opencore community hates sharing EFI folders but I did it because I know how hard can it be to start hackintoshing, so keep in mind this is not a perfect EFI and I have probably tons of mistakes into my config. 
 Its stable on my laptop but that doesnt mean its stable on the same model even if you have the same CPU, the keyboard is probably not the same, you get the idea, so please keep in mind before opening issue and crying, thank you and you are welcome to suggestions if I have any mistake.
 
+
+## DO NOT UPDATE:
+ Realtek Ethernet kext (breaks Ethernet)
+ VoodooPS2 kext (breaks hardware keys)
+ AppleALC?
+ 
+ 
 ## What Works:
 ```
 Battery Indicator
